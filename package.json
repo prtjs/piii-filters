@@ -2,9 +2,15 @@
   "name": "piii-filters",
   "version": "0.0.1",
   "description": "Filtros para Piii.js",
-  "main": "index.js",
+  "main": "dist/filters.min.js",
+  "files": [
+    "dist"
+  ],
   "devDependencies": {
     "webpack": "^3.10.0"
+  },
+  "scripts": {
+    "prepublishOnly": "webpack"
   },
   "author": "Matheus Alves",
   "license": "MIT"
