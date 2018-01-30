@@ -1,8 +1,6 @@
 "use strict";
 
-const Piii = require("Piii");
-
-const filter = [
+module.exports = [
   [
     "c",
     "k"
@@ -22,5 +20,3 @@ const filter = [
     "udos"
   ]
 ];
-
-module.exports = Piii.createFilter(filter);

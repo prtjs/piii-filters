@@ -1,0 +1,11 @@
+{
+  "name": "piii-filters",
+  "version": "0.0.1",
+  "description": "Filtros para Piii.js",
+  "main": "index.js",
+  "devDependencies": {
+    "webpack": "^3.10.0"
+  },
+  "author": "Matheus Alves",
+  "license": "MIT"
+}

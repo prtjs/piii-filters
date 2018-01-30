@@ -1,8 +1,6 @@
 "use strict";
 
-const Piii = require("Piii");
-
-const filter = [
+module.exports = [
   [
     "put"
   ],
@@ -24,5 +22,3 @@ const filter = [
     "zonas"
   ]
 ];
-
-module.exports = Piii.createFilter(filter);
