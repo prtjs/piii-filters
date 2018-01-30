@@ -4,7 +4,7 @@ const path = require("path");
 const webpack = require("webpack");
 
 module.exports = {
-  entry: "./index.js",
+  entry: "./src/index.js",
   output: {
     filename: "filters.min.js",
     path: path.resolve(__dirname, "dist"),
