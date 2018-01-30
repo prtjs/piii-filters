@@ -6,7 +6,7 @@ const webpack = require("webpack");
 module.exports = {
   entry: "./index.js",
   output: {
-    filename: "filters.js",
+    filename: "filters.min.js",
     path: path.resolve(__dirname, "dist"),
     library: "piiiFilters",
     libraryTarget: "umd"
