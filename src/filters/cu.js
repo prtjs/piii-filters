@@ -2,21 +2,20 @@
 
 module.exports = [
   [
-    "c",
-    "k"
+    "cu"
   ],
   [
-    "uz"
-  ],
-  [
-    "ao",
-    "aos",
-    "inho",
-    "inhos",
-    "oes",
-    "uda",
-    "udas",
-    "udo",
-    "udos"
+    "cuz",
+    [
+      "ao",
+      "aos",
+      "inho",
+      "inhos",
+      "oes",
+      "uda",
+      "udas",
+      "udo",
+      "udos"
+    ]
   ]
 ];

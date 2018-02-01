@@ -1,9 +1,7 @@
 "use strict";
 
 module.exports = [
-  [
-    "caralh"
-  ],
+  "caralh",
   [
     "a",
     "ada",

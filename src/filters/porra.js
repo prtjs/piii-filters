@@ -1,9 +1,7 @@
 "use strict";
 
 module.exports = [
-  [
-    "porr"
-  ],
+  "porr",
   [
     "a",
     "ao",

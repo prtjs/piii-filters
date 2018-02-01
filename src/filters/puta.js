@@ -1,9 +1,7 @@
 "use strict";
 
 module.exports = [
-  [
-    "put"
-  ],
+  "put",
   [
     "a",
     "ada",

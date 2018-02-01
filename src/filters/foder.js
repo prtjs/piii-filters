@@ -1,9 +1,7 @@
 "use strict";
 
 module.exports = [
-  [
-    "fod"
-  ],
+  "fod",
   [
     "ido",  // particípio
     "idos", // particípio (plural)
