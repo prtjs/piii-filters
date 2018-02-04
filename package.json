@@ -7,11 +7,13 @@
     "dist"
   ],
   "devDependencies": {
+    "jslint": "0.12.0",
     "webpack": "^3.10.0"
   },
   "scripts": {
     "prepublishOnly": "npm run build",
-    "build": "webpack"
+    "build": "npm test && webpack",
+    "test": "jslint --white --edition=2018-01-04 src/filters/**/*.js"
   },
   "author": "Matheus Alves",
   "license": "MIT"
