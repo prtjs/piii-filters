@@ -15,6 +15,8 @@ module.exports = [
     "aria",
     "arias",
     "as",
+    "inha",
+    "inhas",
     "o",
     "oes",
     "os",
