@@ -1,5 +1,9 @@
 "use strict";
 
+/**
+ * https://www.dicio.com.br/cu/
+ */
+
 module.exports = [
   [
     "cu"
