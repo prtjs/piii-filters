@@ -1,5 +1,7 @@
 # piii-filters
 
+[![Build Status](https://travis-ci.org/piiijs/piii-filters.svg?branch=master)]()
+
 > Filtros para [Piii.js](https://ghub.io/piii).
 
 Veja mais informações em &lt;https://git.io/piii-docs&gt;.
