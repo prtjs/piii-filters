@@ -1,7 +1,7 @@
 {
   "name": "piii-filters",
   "version": "0.0.0",
-  "description": "Filtros para Piii.js",
+  "description": "Filtros para Piii.js.",
   "main": "dist/piii-filters.js",
   "files": [
     "dist"
