@@ -4,6 +4,12 @@
 
 > Filtros para [Piii.js](https://ghub.io/piii).
 
+***
+
+**Este projeto não é mais mantido. [Leia aqui a nota de arquivamento](https://github.com/portujs/piii.js/issues/8).**
+
+***
+
 Veja mais informações em &lt;https://git.io/piii-docs&gt;.
 
 ## Lista
